@@ -1,5 +1,6 @@
 *{
     margin: 0;
+    font-family: 'Work Sans';
 }
 /* banner section */
 .banner{
@@ -12,7 +13,6 @@
 }
 .title h1{
     color: #151414;
-    font-family: 'Work Sans';
     font-style: normal;
     font-weight: 700;
     font-size: 65px;
@@ -20,7 +20,6 @@
     padding-bottom: 30px;
 }
 .title-description{
-    font-family: 'Work Sans';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -49,14 +48,12 @@
     padding-right: 100px ;
 }
 .failuer-title{
-    font-family: 'Work Sans';
     font-weight: 700;
     font-size: 40px;
     color: #151414;
     padding-top: 250px;
 }
 .failuer-description{
-    font-family: 'Work Sans';
     font-weight: 400;
     font-size: 16px;
     line-height: 26px;
@@ -74,7 +71,6 @@
 }
 
 .plan-title{
-    font-family: 'Work Sans';
     font-weight: 700;
     font-size: 40px;
     color: #151414;
@@ -90,14 +86,12 @@
 }
 .plan-name{
     color: #151414;
-    font-family: 'Work Sans';
     font-weight: 700;
     font-size: 30px;
     line-height: 35px;
     text-align: center;
 }
 .plan-description{
-    font-family: 'Work Sans';
     font-weight: 500;
     font-size: 25px;
     line-height: 29px;
@@ -128,7 +122,6 @@
 .btn-call-now{
     position: absolute;
     color: #F15B22;
-    padding: 10x 10px;
     border: none;
     width: 160px;
     height: 64px;
@@ -136,7 +129,6 @@
     border-radius: 5px;
     left: 519px;
     top: 2600.26px;
-    font-family: 'Work Sans';
     font-weight: 600;
     font-size: 20px;
     line-height: 23px;
@@ -153,13 +145,11 @@ footer{
 }
 .footer-title , h1{
     text-align: left;
-    font-family: 'Work Sans';
     font-weight: 700;
     font-size: 45px;
     color: white;
 }
 .footer-info p{
-    font-family: 'Work Sans';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -171,11 +161,8 @@ footer input{
     border-radius: 5px;
     height: 50px;
     width: 300px;
-    font-family: 'Work Sans';
-
 }
 .btn-submit{
-    font-family: 'Work Sans';
     font-weight: 600;
     font-size: 20px;
     color: #F15B22;
